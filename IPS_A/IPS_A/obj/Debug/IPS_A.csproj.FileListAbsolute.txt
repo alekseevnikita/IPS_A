@@ -1,0 +1,12 @@
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\obj\Debug\IPS_A.csproj.AssemblyReference.cache
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\obj\Debug\IPS_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\obj\Debug\IPS_A.Properties.Resources.resources
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\obj\Debug\IPS_A.csproj.GenerateResource.cache
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\obj\Debug\IPS_A.csproj.CoreCompileInputs.cache
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\bin\Debug\IPS_A.exe.config
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\bin\Debug\IPS_A.exe
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\bin\Debug\IPS_A.pdb
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\obj\Debug\IPS_A.exe
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\obj\Debug\IPS_A.pdb
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\bin\Debug\ico\s4_Mail_Agent_mail_Черный.ico
+C:\Users\alekseevns\source\repos\IPS_A\IPS_A\obj\Debug\IPS_A.Form1.resources
